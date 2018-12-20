@@ -1,6 +1,6 @@
 {
   "name": "juliangruber",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A personal card for Julian Gruber (@juliangruber)",
   "main": "index.js",
   "bin": {
