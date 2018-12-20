@@ -1,14 +1,14 @@
 {
-  "name": "bitandbang",
+  "name": "juliangruber",
   "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Julian Gruber (@juliangruber)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/juliangruber/bitandbang.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
