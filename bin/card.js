@@ -15,7 +15,7 @@ let options = {
 let data = {
   'name': chalk.white('Julian Gruber /'),
   'handle': chalk.cyan('juliangruber'),
-  'work': chalk.white('Technical Lead at Microsoft'),
+  'work': chalk.white('Technical Lead at NodeSource'),
   'twitter': chalk.cyan('https://twitter.com/juliangruber'),
   'github': chalk.cyan('https://github.com/juliangruber'),
   'linkedin': chalk.cyan('https://linkedin.com/in/julian-gruber-189596145'),
